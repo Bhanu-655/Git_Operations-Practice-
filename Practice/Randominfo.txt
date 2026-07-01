@@ -1,0 +1,6 @@
+This is just a random information to practice the "git stash" and some other operations
+
+Hi, I just added some random information here to push into the online repository (Github - repo)
+One thing that I realized now is that, If you need to push any changes into the github, you need to commit something.
+- you can only push changes that are commited (where we usually hit commit when every modification is successfully done)
+
